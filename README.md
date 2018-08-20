@@ -8,7 +8,8 @@ A Simple Maps Application via Electron Framework
 ## Prerequisites:
 
 - NodeJS with NPM. Check your version of NodeJS by running `node -v` in a terminal.
-- A PC running macOS or Windows (For release build)
+- A PC running macOS or Linux (For release build).
+- Can be started live on Windows
 
 ## How to start:
 
