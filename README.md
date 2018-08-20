@@ -108,7 +108,7 @@ npm run create-debian-installer
 
 ## Packaging the App for Windows:
 
-Packaging for Windows is not included in the scripts currently but this can be done quite, easily. You will need a Windows machine for this with NodeJS installed. First download an icon for the app by [clicking here](https://www.iconfinder.com/icons/283048/download/ico/512). Rename the icon to **icon.ico** and then move it to **assets** folder Now update the following code in the **package.json** already present in the folder, in the scripts section:
+Packaging for Windows is not included in the scripts currently but this can be done quite, easily. You will need a Windows machine for this with NodeJS installed. First download an icon for the app by [clicking here](https://cloud.backslashlinux.com/index.php/s/TZb9sZCLS58ZCGE) and move the icon to **assets** folder Now update the following code in the **package.json** already present in the folder, in the scripts section:
 
 ```json
 ...
